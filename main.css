@@ -1,0 +1,72 @@
+<html>
+<head> <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <title>Blood Bank</title>
+<style>
+ 
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  
+section {
+    width:600px;
+	
+    float:left;
+    padding:10px;	 	 
+}
+ 
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: green;
+}
+ 
+.flex-item {
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 50%;
+      margin: auto;
+  }
+  img.p
+  {
+  margin-top:2px;
+  }
+  #header {
+    background-color:red;
+    color:white;
+    text-align:center;
+    padding:5px;
+	}
+	#nav 
+	{
+    line-height:30px;
+    background-color:white;
+    height:300px;
+    width:400px;
+    float:left;
+    padding:5px;
+	margin-left: 50px;
+    }
+	
+	#footer {
+    background-color:maroon;
+    color:red;
+    clear:both;
+    text-align:center;
+    padding:20px;	 	 
+}
+</div>
+</body>
+</html>
